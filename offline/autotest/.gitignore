@@ -1,0 +1,7 @@
+*output.txt*
+CMakeCache.txt
+CMakeFiles/
+Makefile
+app
+cmake_install.cmake
+output/

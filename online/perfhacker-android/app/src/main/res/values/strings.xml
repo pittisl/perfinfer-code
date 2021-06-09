@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example App</string>
+    <string name="upload_url">https://example.com/uploadpath/</string>
+</resources>
