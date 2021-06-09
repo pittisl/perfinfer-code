@@ -6,6 +6,7 @@
 2. Check `local.properties` file and make sure it has correct setup for `sdk.dir`.
 3. Adjust `strings.xml` to specify inference upload url. See **RESULT UPLOAD** section below.
 4. Examine `cpp/hacklib.cpp` and preload necessary classification model parameters into variables. See **MODEL PRELOADING** section below.
+5. Build the app using Android Studio.
 
 
 ### App UI
@@ -14,14 +15,14 @@ The main App interface is empty. Two buttons were at the top to allow
 manually controlling start and stop of background GPU data collection
 and input inference service.
 
-In this demo, the running service shows a notification notification bar to
-show the current inference result.
+In this demo, the running service shows a notification on notification bar to
+display the current inference result.
 
 
 ### MODEL PRELOADING
 
-The output of offline training is a cpp file with name `<devicesetup>.cpp`.
-To use the model, follow the instruction in the file comment.
+The output of offline training is a cpp source file with name `<devicesetup>.cpp`.
+To load the model into App project, please follow the instruction in the file comment.
 
 Example:
 
