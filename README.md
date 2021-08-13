@@ -1,6 +1,6 @@
 # Introduction
 
-This code repository stores program implementation for paper submission _Side Channel Attacks on Mobile GPUs for File-grained User Activity Inference_.
+This code repository stores program implementation for paper submission _Eavesdropping User Credentials via GPU Side Channels on Smartphones_.
 
 ## Directory structure
 
