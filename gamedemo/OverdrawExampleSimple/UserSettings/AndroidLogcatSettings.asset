@@ -1,0 +1,143 @@
+{
+    "m_SelectedDeviceId": "13201FDD4002RC",
+    "m_SelectedPackage": {
+        "deviceId": "13201FDD4002RC",
+        "name": "com.DefaultCompany.OverdrawExample",
+        "processId": 25045,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2592,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 13395,
+            "exited": true
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 13723,
+            "exited": true
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 14712,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 20217,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 20847,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 21169,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 21381,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 9098,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 10247,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 16337,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 20596,
+            "exited": false
+        },
+        {
+            "deviceId": "13201FDD4002RC",
+            "name": "com.DefaultCompany.OverdrawExample",
+            "processId": 25045,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
