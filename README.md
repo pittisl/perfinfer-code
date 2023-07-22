@@ -1,4 +1,4 @@
-# Introduction
+# Initial implementation for paper: Eavesdropping user credentials via GPU side channels on smartphones (ASPLOS'22)
 
 This code repository stores initial program implementation for paper submission _Eavesdropping User Credentials via GPU Side Channels on Smartphones_ ,
 which is later accepted into the 27th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'22).
